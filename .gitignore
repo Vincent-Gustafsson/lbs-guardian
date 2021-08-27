@@ -1,0 +1,8 @@
+__pycache__/
+
+.vscode/
+
+.env
+prefixes.json
+shorthands.json
+schedules
